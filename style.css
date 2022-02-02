@@ -1,0 +1,14 @@
+table{
+    border-color: red;
+    border-width: 1px;
+}
+#table3{
+    border-width: 1px;
+    border-color: green;
+}
+td.a{
+    border-color: blue;
+}
+tr.borde{
+    border: none;
+}
